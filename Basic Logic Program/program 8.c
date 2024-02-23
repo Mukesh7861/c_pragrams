@@ -1,0 +1,14 @@
+//8. FindFind circumference of Rectangle formula : C = 4 * a  ?
+#include<stdio.h>
+int main()
+{
+	int c,a;
+
+	printf("Enter side :");
+	scanf("%d",&a);
+	c=4*a;
+	
+	printf("circumference of rectangle %d:",c);
+	
+	
+}
